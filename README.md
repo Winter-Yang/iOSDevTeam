@@ -17,7 +17,7 @@ github帐号：
 
 博客：（没有博客的同学可以写上自己喜欢的博客地址）
 
-公众号：（包括名称和二维码，二维码请上传最小尺寸的）
+微信公众号：（包括名称和二维码，二维码请上传最小尺寸的）
 
 备注：（这里可以写自己在app store上app的地址）
 ```
@@ -28,6 +28,6 @@ github帐号：
 
 ##成员列表
 
-| 姓名 | Github ID | 博客地址 | 公众号名称 |  备注  |
+| 姓名 | Github ID | 博客地址 | 微信公众号 |  备注  |
 | --- | --- | --- | --- | --- |
 | 申冠华 | [shenAlexy](http://github.com/shenAlexy)  | [申冠华的博客](http://blog.csdn.net/shenguanhua) |  [iOSDevTeam](assets/images/shenguanhua.jpg)  |  
