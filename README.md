@@ -31,4 +31,5 @@ github帐号：
 | 姓名 | Github ID | 博客地址 | 微信公众号 |  备注  |
 | --- | --- | --- | --- | --- |
 | 申冠华 | [shenAlexy](https://github.com/shenAlexy)  | [申冠华的博客](http://blog.csdn.net/shenguanhua) |  [iOSDevTeam](https://github.com/shenAlexy/iOSDevTeam/blob/master/iOSDevTeam/iOSDevTeam/Resources/images/shenAlexy.jpg)  |  
-|ifelseboy |  [ifelseboy](https://github.com/ifelseboy)  |  [James Yu](http://www.ifelseboy.com)  |
+|ifleseboy |  [ifleseboy](https://github.com/ifelseboy)  |  [James Yu](http://www.ifelseboy.com)  |
+|shaneZhang |  [shaneZhang](https://code.5288z.com)  |  [shane技术之家](https://zhangyuqing.me)  | [张毓庆智能科技](https://www.5288z.com/wp-content/uploads/2015/03/qrcode_for_gh_c4cae891c1a7_258.jpg)|
