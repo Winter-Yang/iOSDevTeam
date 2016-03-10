@@ -23,6 +23,6 @@ github帐号：
 
 ##成员列表
 
-| 姓名 | Github ID | 关注领域| 博客链接 | 公众号名称 |
+| 姓名 | Github ID | 博客地址 | 公众号名称 |
 | --- | --- | --- | --- | --- |
-| 徐川 | [pockry](http://github.com/pockry) | 移动开发 |  | [移动开发前线](assets/images/qrcode_for_gh_dc045507492c_258.jpg) |
+| 申冠华 | [shenAlexy](http://github.com/shenAlexy)  | [申冠华的博客](http://blog.csdn.net/shenguanhua) |  [iOSDevTeam](assets/images/shenguanhua.jpg)  |
