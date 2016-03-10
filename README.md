@@ -30,4 +30,5 @@ github帐号：
 
 | 姓名 | Github ID | 博客地址 | 微信公众号 |  备注  |
 | --- | --- | --- | --- | --- |
-| 申冠华 | [shenAlexy](http://github.com/shenAlexy)  | [申冠华的博客](http://blog.csdn.net/shenguanhua) |  [iOSDevTeam](https://github.com/shenAlexy/iOSDevTeam/blob/master/iOSDevTeam/iOSDevTeam/Resources/images/shenAlexy.jpg)  |
+| 申冠华 | [shenAlexy](https://github.com/shenAlexy)  | [申冠华的博客](http://blog.csdn.net/shenguanhua) |  [iOSDevTeam](https://github.com/shenAlexy/iOSDevTeam/blob/master/iOSDevTeam/iOSDevTeam/Resources/images/shenAlexy.jpg)  |  
+|ifleseboy |  [ifleseboy](https://github.com/ifelseboy)  |  [James Yu](http://www.ifelseboy.com)  |
